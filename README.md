@@ -233,19 +233,13 @@ No. VPC Peering provides private connectivity between the two VPCs. It does not 
 
 ## 9. Screenshots
 
-### VPC Configuration
-![VPC Configuration](images/01-vpc-configuration.png)
-
 ### Accepting the Peering Request
-![Peering Request](images/02-peering-request.png)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/07448066-bfbc-47de-8822-aed1e3385561" />
 
-### Peering Connection Accepted
-![Peering Accepted](images/03-peering-accepted.png)
+### Attaching route tables in peering connection
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8a9fbd7e-cbb8-4053-a8f9-f36f33447180" />
 
-### Configuring Route Tables
-![Route Tables](images/04-route-table-vpc1.png)
-
-### Final Connectivity Output
-![Final Output](images/06-final-output.png)
+### Final output
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8c920568-3090-4c8f-a9b1-395d5f0a8f69" />
 
 ---
